@@ -31,7 +31,7 @@ function Hero() {
       <div className="relative z-10 flex flex-col items-center text-center gap-4 md:gap-6">
         {/* Immagine */}
         <img
-          src="./media/images/IMG_8448.jpg" 
+          src="/media/images/IMG_8448.jpg" 
           alt="Immagine di me"
           className={`w-40 h-40 md:w-64 md:h-64 rounded-full object-cover border-4 border-white shadow-lg transition-opacity duration-1000 ${
             showLogo ? 'opacity-100' : 'opacity-0'

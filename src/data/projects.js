@@ -4,10 +4,10 @@ const projects = [
     title: "Teatro Colosseo",
     type: "Digital Strategy",
     images: [
-      "./media/images/teatro colosseo/teatro-1.png",
-      "./media/images/teatro colosseo/Screenshot 2025-07-31 alle 15.16.18.png",
-      "./media/images/teatro colosseo/Screenshot 2025-07-31 alle 15.16.38.png",
-      "./media/images/teatro colosseo/Screenshot 2025-07-31 alle 15.17.27.png",
+      "/media/images/teatro colosseo/teatro-1.png",
+      "/media/images/teatro colosseo/Screenshot 2025-07-31 alle 15.16.18.png",
+      "/media/images/teatro colosseo/Screenshot 2025-07-31 alle 15.16.38.png",
+      "/media/images/teatro colosseo/Screenshot 2025-07-31 alle 15.17.27.png",
       
 
 
@@ -22,10 +22,10 @@ const projects = [
     title: "Horror Gourmet",
     type: "Sound Design",
     images: [
-      "./media/images/1753954675244.jpeg",
-      "./media/images/+Itp5M.png",
-      "./media/images/r0mk0W.png",
-      "./media/images/KFTrYi.png",
+      "/media/images/1753954675244.jpeg",
+      "/media/images/+Itp5M.png",
+      "/media/images/r0mk0W.png",
+      "/media/images/KFTrYi.png",
     ],
     video: "https://www.youtube.com/watch?v=YprVw0hAfxI&t=1s",
     doc: "https://nabi-studios.itch.io/horror-gourmet",
@@ -37,7 +37,7 @@ const projects = [
     title: "Shiny Robot",
     type: "Sound Design",
     images: [
-      "./media/images/EDzbDg.png",
+      "/media/images/EDzbDg.png",
     ],
     video: "",
     doc: "https://nabi-studios.itch.io/shiny-robot",
@@ -49,7 +49,7 @@ const projects = [
     title: "Quando incontrai il buio",
     type: "Sound Design",
     images: [
-      "./media/images/quando incontrai il buio/c987b01c-0465-4aef-a3d2-a0090f5892b9.JPG",
+      "/media/images/quando incontrai il buio/c987b01c-0465-4aef-a3d2-a0090f5892b9.JPG",
     ],
     video: "https://www.youtube.com/watch?v=HSmKIcIGgiA&list=OLAK5uy_k88kHmlN0aEW2KaJ0m37zoCh-EHJBVEBw&index=8",
     doc: "https://open.spotify.com/intl-it/album/3OEZgi6MWYMC3hmr5tcpxn?si=H56sCcfQT5yOuZkAc9LvAA",
